@@ -65,7 +65,7 @@ Una vez que ambos servidores estén en funcionamiento, abre tu navegador en la s
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local: git clone https://github.com/Brancoarm/proyecto_5.git
+1. Clona este repositorio en tu máquina local: git clone https://github.com/BastianSuarezH/Proyecto5Udd
 
 2. Navega al directorio del proyecto: cd proyecto_5
 

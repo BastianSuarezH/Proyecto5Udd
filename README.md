@@ -117,7 +117,7 @@ La aplicación puede ser desplegada en servicios como Netlify, Vercel o GitHub P
 
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
 
-1. Haz un fork del repositorio: git fork https://github.com/Brancoarm/proyecto_5.git
+1. Haz un fork del repositorio: git fork (https://github.com/BastianSuarezH/Proyecto5Udd
 
 2. Crea una nueva rama: git checkout -b feature/nueva-funcionalidad
 
